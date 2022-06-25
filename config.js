@@ -4,19 +4,19 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+62 838-2007-3017', 'Rᴇ7.yu'],
+  ['+62 812-2939-3997', 'Sir.Zex'],
   ['+62 878-2765-9529'],
   ['+62 852-4075-0713']
 ]
 
 
 
- // ['6283820073017', '436506665652696', '6285240750713']
+ // ['6281229393997', '436506665652696', '6285240750713']
 
   // [number, dia creator/owner?, dia developer?]
 // Put your number here
 global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.prems = ['6281229393997'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -50,13 +50,13 @@ global.APIKeys = { // APIKey Here
 */
 
 // Sticker WM
-global.packname = 'WhatsAppCode'
-global.author = ''
+global.packname = 'Sir.Zex'
+global.author = '6281229393997'
 global.thumb = readFileSync('./me.png')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ Ꭱʟxғʟʏ - 2022'
+global.me = 'Sir.Zex ©2022'
 global.str = '-------------'
 global.l = '「'
 global.r = '」'
